@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.display-planet {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.planet-image {
+  width: 70%;
+}
+.name {
+  color: #f8fafc;
+}
+.description {
+  color: #f1f5f9;
+
+  text-align: center;
+}
